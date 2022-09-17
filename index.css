@@ -1,0 +1,25 @@
+.main-wrapper {
+    margin-top: 20px;
+} 
+.page-title{
+    text-align: center;
+}
+.registration-form{
+    width: 800px;
+    margin:auto;
+}
+.box{
+    background-color: rgb(233, 229, 241);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.container{
+    background-color: rgb(91, 99, 214);
+     position: center;
+     border-radius: 20px;
+}
+/*.invalid-feedback, .valid-feedback{
+    display: block;
+}  */
